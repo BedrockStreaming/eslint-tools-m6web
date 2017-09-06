@@ -2,6 +2,10 @@
   "name": "eslint-tools-m6web",
   "version": "1.0.0",
   "description": "Tooling for eslint and prettier used in m6web projects",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/M6Web/eslint-tools-m6web"
+  },
   "main": ".eslintrc",
   "author": "M6Web",
   "license": "MIT",
