@@ -11,13 +11,13 @@ With that come some little changes from the default config of [eslint-config-air
 ## Setup
 
 ```shell
-npm install eslint-tools-m6web
+npm install --dev eslint-tools-m6web
 ```
 
 or 
 
 ```shell
-yarn add eslint-tools-m6web
+yarn add --dev eslint-tools-m6web
 ```
 
 Then you need to inherit the config in the `.eslintrc` file of your project. For that create a `.eslintrc` and add the following lines:
@@ -31,6 +31,19 @@ And that's all.
 
 If you want to customize some rules, follow the [eslint documentation](https://eslint.org/docs/user-guide/configuring). 
 
+### Jest / Jasmine Support
+
+If you want, you can add the jest support with the following lines: 
+
+```json
+{
+  "env": {
+    "browser": true,
+    "jasmine": true
+  }
+}
+```
+
 ## USAGE
 Lint your code:
 ```shell
@@ -39,5 +52,5 @@ yarn eslint src/
 
 Rewrite your code, the right way :smiling_imp::
 ```shell
-yarn prettier-eslint --write 'src/*.js'
+yarn prettier-eslint -- --write 'src/**/*.js'
 ```
