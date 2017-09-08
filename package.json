@@ -12,9 +12,9 @@
   "dependencies": {
     "eslint": "4.6.1",
     "eslint-config-m6web": "1.0.0",
-    "eslint-config-prettier": "1.7.0",
-    "eslint-plugin-prettier": "2.0.1",
-    "prettier": "1.3.0",
-    "prettier-eslint-cli": "4.1.1"
+    "eslint-config-prettier": "2.4.0",
+    "eslint-plugin-prettier": "2.2.0",
+    "prettier": "1.6.0",
+    "prettier-eslint-cli": "4.3.0"
   }
 }
