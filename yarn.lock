@@ -370,14 +370,14 @@ eslint-config-airbnb@15.1.0:
   dependencies:
     eslint-config-airbnb-base "^11.3.0"
 
-eslint-config-m6web@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-m6web/-/eslint-config-m6web-1.0.0.tgz#6c788b7e9b1d855a1a26c7817532ececebdec7fa"
+eslint-config-m6web@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-m6web/-/eslint-config-m6web-1.0.1.tgz#3a3fa2bfc80119aa34ab9855b04314bb150e0933"
   dependencies:
     eslint-config-airbnb "15.1.0"
     eslint-plugin-import "2.7.0"
     eslint-plugin-jsx-a11y "5.1.1"
-    eslint-plugin-react "^7.3.0"
+    eslint-plugin-react "7.3.0"
 
 eslint-config-prettier@2.4.0:
   version "2.4.0"
@@ -433,7 +433,7 @@ eslint-plugin-prettier@2.2.0:
     fast-diff "^1.1.1"
     jest-docblock "^20.0.1"
 
-eslint-plugin-react@^7.3.0:
+eslint-plugin-react@7.3.0:
   version "7.3.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-7.3.0.tgz#ca9368da36f733fbdc05718ae4e91f778f38e344"
   dependencies:
