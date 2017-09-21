@@ -44,7 +44,7 @@ If you want, you can add the jest support with the following lines:
 }
 ```
 
-## USAGE
+## Usage
 Lint your code:
 ```shell
 yarn eslint src/
