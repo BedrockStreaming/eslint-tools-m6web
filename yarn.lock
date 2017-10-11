@@ -378,7 +378,7 @@ eslint-config-airbnb@16.0.0:
 
 "eslint-config-m6web@https://github.com/M6Web/eslint-config-m6web.git#bump":
   version "1.0.1"
-  resolved "https://github.com/M6Web/eslint-config-m6web.git#493c5126eecc799a9debf47830c8495878a367a0"
+  resolved "https://github.com/M6Web/eslint-config-m6web.git#eff7fdb3de92383a2bf845f508f4ab174269cb3e"
   dependencies:
     eslint-config-airbnb "16.0.0"
     eslint-plugin-import "2.7.0"
