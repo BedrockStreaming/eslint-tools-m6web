@@ -376,9 +376,9 @@ eslint-config-airbnb@16.0.0:
   dependencies:
     eslint-config-airbnb-base "^12.0.2"
 
-"eslint-config-m6web@https://github.com/M6Web/eslint-config-m6web.git#bump":
-  version "1.0.1"
-  resolved "https://github.com/M6Web/eslint-config-m6web.git#eff7fdb3de92383a2bf845f508f4ab174269cb3e"
+eslint-config-m6web@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-m6web/-/eslint-config-m6web-1.1.0.tgz#9483aaae53a5a515a608aa05c35d895e1a954554"
   dependencies:
     eslint-config-airbnb "16.0.0"
     eslint-plugin-import "2.7.0"
