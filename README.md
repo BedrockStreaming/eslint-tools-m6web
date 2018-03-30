@@ -1,3 +1,6 @@
+# DEPRECATED
+### Use https://github.com/M6Web/eslint-tools/tree/master/packages/eslint-plugin
+
 # Eslint-tools-m6web
 The purpose of this package is simple, simplify the configuration of eslint and prettier in our projects.
 
